@@ -1,0 +1,1 @@
+ /home/user/SkillWave/.dart_tool/flutter_build/273e9d1443f912a73c2d787ce471a110/native_assets.yaml: 
