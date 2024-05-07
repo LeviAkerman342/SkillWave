@@ -43,8 +43,9 @@ Skillwave - это мобильное приложение обучающей п
 <div style="display:flex; background-color:white;">
 <img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
 <img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" />
+    
 </div>
 
 
@@ -53,7 +54,7 @@ Skillwave разработан с использованием следующи�
 - Dart/Flutter для мобильной разработки
 - Bloc для управления состоянием
 - Supabase для базы данных
-- Node.js для backend
+- C# для backend
 - UI/UX
 </div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlwcXh5cmoweTd2dm9sajkzemMzazFyZDZ6NzQxeWFhbmkyYndocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ3FSVoJrkYWk/giphy.gif"/>
